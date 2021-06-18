@@ -1,0 +1,23 @@
+{
+  "name": "turbo-potato",
+  "version": "1.0.0",
+  "description": "my api once again",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daus2020/turbo-potato.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daus2020/turbo-potato/issues"
+  },
+  "homepage": "https://github.com/daus2020/turbo-potato#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
